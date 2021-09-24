@@ -1,0 +1,2 @@
+# fafa
+repository of faraz
